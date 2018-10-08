@@ -1,1 +1,1 @@
-console.log('welcome GIT!');
+console.log('welcome to GIT!');
